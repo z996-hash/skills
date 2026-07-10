@@ -1,0 +1,4 @@
+interface:
+  display_name: "DL Repro Env"
+  short_description: "Set up clean deep learning reproduction environments."
+  default_prompt: "Use $dl-repro-env to reproduce this deep learning GitHub repository with a clean conda environment and fast validation."
