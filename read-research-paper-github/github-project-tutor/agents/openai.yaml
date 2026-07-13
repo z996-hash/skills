@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 项目精读导师"
+  short_description: "逐轴解释数据流、设计原因与面试追问，生成零基础项目精读文件"
+  default_prompt: "Use $github-project-tutor to create a beginner-friendly Markdown guide for this repository, explaining data flow, shapes, design rationale, tradeoffs, alternatives, boundary conditions, and interview-style follow-up questions."
